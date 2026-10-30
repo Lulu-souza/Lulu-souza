@@ -67,12 +67,6 @@ integração com APIs legislativas.
 
 ------------------------------------------------------------------------
 
-## 📈 Estatísticas do GitHub
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Lulu-souza&show_icons=true&include_all_commits=true&hide_border=true&theme=default&title_color=7C3AED&icon_color=7C3AED" alt="Estatísticas do GitHub" />
-</p>
-
 ## 📚 Atualmente estudando
 
 -   Engenharia e manipulação de dados;
